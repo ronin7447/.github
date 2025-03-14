@@ -11,7 +11,8 @@ pursue their passion in STEM and become leaders of innovation.
 
 ## 2025 Reefscape
 
-Todo
+![image](https://github.com/user-attachments/assets/cbb28f5a-e963-4d7f-8917-156ed13ca545)
+
 
 ## What We Do
 The team builds a competitive robot with industrial grade equipment in the
