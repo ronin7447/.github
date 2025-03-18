@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/117784618?s=460&v=4" width="200px" />
+</p>
+
 # Team 7447 Rōnin Robotics
 
 Team 7447 is a robotics team from Portola High School in Irvine,
